@@ -1,0 +1,10 @@
+{
+    "MAX_LEN": 50,
+    "BATCH_SIZE": 2000,
+    "NUM_EPOCHS": 2,
+    "EMBEDDING_DIM": 300,
+    "DROPOUT": 0.5,
+    "RNN_DIM": 250,
+    "RNN_LAYERS": 3,
+    "LEARNING_RATE": 0.004
+}
